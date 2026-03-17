@@ -74,7 +74,7 @@ echo ""
 echo -e "${BOLD}[Step 4/4] Downloading Synup Notetaker...${NC}"
 echo -e "${CYAN}  Downloading SynupNotetaker.dmg...${NC}"
 
-DMG_URL="https://drive.google.com/uc?export=download&id=REPLACE_WITH_GDRIVE_FILE_ID"
+DMG_URL="https://drive.google.com/uc?export=download&id=1sMdTCaaqLItHK-STt3dZQCL_oZtFOTRe"
 DMG_PATH="$HOME/Downloads/SynupNotetaker.dmg"
 
 curl -L -o "$DMG_PATH" "$DMG_URL" 2>/dev/null
